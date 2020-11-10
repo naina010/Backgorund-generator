@@ -1,3 +1,3 @@
 # Background-generator
 
-https://naina010.github.io/Background-generator/
+https://naina024.github.io/Background-generator/
